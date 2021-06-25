@@ -6,4 +6,7 @@
   type: video
   url: https://www.youtube.com/watch?v=hFJ5zhx5LD8
   description: Sharing of insights resulting from a joint POC (with KPMG's Michael Cutler) using Corda on Azure to develop a process that transform Customer Identification Procedures (eKYC) including architecture and best practice.
-  
+- key: In Power BI, a collection of visuals is called an app. 
+  tags:
+    - Microsoft
+    - Power BI
