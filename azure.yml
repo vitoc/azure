@@ -2,8 +2,15 @@
   type: video
   url: https://info.microsoft.com/AP-AzureMig-WBNR-FY20-03Mar-18-OpenSourceVirtualSummit-4491_02OnDemandRegistration-ForminBody.html
   description: Azure is a great development and deployment option for Node.js applications. Join Vito as he walks you through Visual Studio Code features for Azure productivity, great Azure cloud features that help you scale globally, interesting Azure services that you can reuse instead of building your own as well as automation options that enhances your cloud experience.
+  tags:
+    - Node.js  
 - key: Could blockchain be the foundation of a viable KYC utility?
   type: video
   url: https://www.youtube.com/watch?v=hFJ5zhx5LD8
   description: Sharing of insights resulting from a joint POC (with KPMG's Michael Cutler) using Corda on Azure to develop a process that transform Customer Identification Procedures (eKYC) including architecture and best practice.
-  
+  tags:
+    - Blockchain
+- key: In Power BI, a collection of visuals is called an app. 
+  tags:
+    - Microsoft
+    - Power BI
