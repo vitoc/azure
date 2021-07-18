@@ -21,3 +21,4 @@ jobs:
         with:
           http_url: https://api.data.gov.sg/v1/environment/air-temperature
           downloaded_filename: temperature.json
+          postprocess: postprocess.js
