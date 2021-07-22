@@ -13,6 +13,8 @@ You can keep the demo video on the LHS of your desktop while having the browser 
 * https://github.com/githubocto/flat-demo-bitcoin-price
 * https://api.coindesk.com/v2/bpi/currentprice.json
 * https://github.com/the-pudding/data/actions
+* https://flatgithub.com/vitoc/taichi/
+* https://runningroot.com
 * https://github.com/topics/git-scraping
 
 ## Simon Willison and Git scraping
@@ -49,15 +51,21 @@ I think its an interesting way to see how headlines can influence how we perceiv
 
 * Flat data doesn't have to be a feed (show no Actions, files not changed daily)
 * Add flat and show pudding table
+* Next: how to create this kind of dataset
+
+## Running Root: Tool to create Flat schema and datasets
+
+* Go to: vitoc/taichi > Fork
+* Go to runningroot.com > Add the GitHub app to the taichi repo
+* Goto /taichi, show existing Datasets 
+* Create new dataset Schools: Name, Location, MonthlyFee. As this is Flat data, the form doesn't need to be rows or arrays, but in this case it is..
+* Commit schema and add data: Tai Fit, Chi Chi, Chuen Art: Commit
+* See data on GitHub and add Flat
+* Filter school names
 
 ## Git-scraping topic
 
 * Growing community using the technique to transform and present data in interesting ways (from Covid to elections)
-
-## You can also start sharing tables from your repo via text files
-
-* For example, this repo (vitoc/kb) consist of an azure.yml file
-* If you point it Flatgithub.com, you can see the YAML structure in Table form
 
 ## Close
 
